@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwGVCKRnZBr2soR8z4CagvdVbe4GMM2OgxGdgpNNb+ySE1cTeBTcOcmNkzblhxVxTgKsrAK6pSJlREk/M/xWYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nirza\\NewRiderProjects\\AspNetCore-Harsha\\11. Dependency Injection\\12. Autofac\\DIExample\\DIExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nirza\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
